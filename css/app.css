@@ -28,3 +28,8 @@ html {
   background-image: url("../img/lukas-blazek-GnvurwJsKaY-unsplash.jpg");
   min-height: 100%;
 }
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("../img/patrick-tomasso-QMDap1TAu0g-unsplash.jpg");
+  min-height: 400px;
+}
